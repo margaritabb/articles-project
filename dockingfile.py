@@ -4,6 +4,9 @@
 Created on Sun Mar  5 09:19:35 2023
 
 @author: margaritabozhinova
+
+This file combines the three module that scrape, process and
+load the articles data to a SQLite database. 
 """
 
 import os
